@@ -24,3 +24,11 @@ Questions that need to be answered before merging:
 Steps to test this PR:
 
 1. <!-- list any configuration changes, settings, test content, or other things necessary to test this change. -->
+
+## Additional information
+
+INN Member/Labs Client requesting: (if applicable)
+
+- [ ] Contributor has read INN's [GitHub code of conduct](https://github.com/INN/.github/blob/master/CODE_OF_CONDUCT.md)
+- [ ] Contributor would like to be mentioned in the release notes as: (fill in this blank)
+- [ ] Contributor agrees to the license terms of this repository.
