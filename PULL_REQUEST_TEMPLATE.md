@@ -20,7 +20,10 @@ Features that this PR affects:
 Questions that need to be answered before merging:
 
 - [ ] Is this PR targeting the correct branch in this repository?
-- [ ] 
+- [ ] Has this been tested in the following browsers:
+	- [ ] Chrome (covers IE Edgeium)
+	- [ ] Safari (the new IE)
+	- [ ] Firefox (the non-Webkit option)
 
 Steps to test this PR:
 
