@@ -16,13 +16,14 @@ Features that this PR affects:
 
 - 
 
-<!-- If there are no questions, please remove the questions section. -->
-Questions that need to be answered before merging:
+<!-- If these questions are not applicable, remove them. Add your own questions as needed. -->
+Questions that may need to be answered before merging:
 
 - [ ] Is this PR targeting the correct branch in this repository?
-- [ ] Has this been tested in the following browsers:
+- [ ] Does this file update the relevant changelogs with a description of what's changed?
+- [ ] If this is a frontend change, has this been tested in the following browsers?
 	- [ ] Chrome (covers IE Edgeium)
-	- [ ] Safari (the new IE)
+	- [ ] Safari
 	- [ ] Firefox (the non-Webkit option)
 
 Steps to test this PR:
