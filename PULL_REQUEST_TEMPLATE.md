@@ -30,6 +30,6 @@ Steps to test this PR:
 
 INN Member/Labs Client requesting: (if applicable)
 
-- [ ] Contributor has read INN's [GitHub code of conduct](https://github.com/INN/.github/blob/master/CODE_OF_CONDUCT.md)
+- [ ] Contributor has read WP Buddy's [GitHub code of conduct](https://github.com/WPBuddy/.github/blob/master/CODE_OF_CONDUCT.md)
 - [ ] Contributor would like to be mentioned in the release notes as: (fill in this blank)
 - [ ] Contributor agrees to the license terms of this repository.
