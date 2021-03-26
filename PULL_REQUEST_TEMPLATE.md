@@ -28,7 +28,7 @@ Steps to test this PR:
 
 ## Additional information
 
-INN Member/Labs Client requesting: (if applicable)
+WP Buddy Client requesting: (if applicable)
 
 - [ ] Contributor has read WP Buddy's [GitHub code of conduct](https://github.com/WPBuddy/.github/blob/master/CODE_OF_CONDUCT.md)
 - [ ] Contributor would like to be mentioned in the release notes as: (fill in this blank)
