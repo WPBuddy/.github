@@ -20,6 +20,7 @@ Features that this PR affects:
 Questions that need to be answered before merging:
 
 - [ ] Is this PR targeting the correct branch in this repository?
+- [ ] Has the `changelog.md` file been updated to reflect the updates in this PR?
 - [ ] 
 
 Steps to test this PR:
